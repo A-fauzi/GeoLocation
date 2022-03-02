@@ -35,6 +35,10 @@
             android:value="AIzaSyD2-ayJsneCRWSwWYTSk4l4XnlYkMB5MXE" />
 
         <activity
+            android:name=".StreetView"
+            android:exported="false"
+            android:label="@string/title_activity_street_view" />
+        <activity
             android:name=".CurrentPlace"
             android:exported="false"
             android:label="@string/title_activity_current_place" />

@@ -2,4 +2,6 @@
     <string name="app_name">userLocation</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="title_activity_current_place">CurrentPlace</string>
+    <string name="API_KEY">AIzaSyD2-ayJsneCRWSwWYTSk4l4XnlYkMB5MXE</string>
+    <string name="title_activity_street_view">StreetView</string>
 </resources>
